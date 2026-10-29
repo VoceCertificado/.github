@@ -33,6 +33,14 @@ Laboratório que utiliza Strands Agents e Amazon Bedrock para inventariar e audi
 
 O agente consulta instâncias Amazon EC2, volumes Amazon EBS, endereços IPv4 públicos e NAT Gateways. Em seguida, organiza as descobertas e valida a conclusão da auditoria.
 
+### [Consultar custos AWS pelo CloudShell](https://github.com/VoceCertificado/aws-cloudshell-consulta-custos)
+
+Exemplo prático para consultar os custos do mês atual de uma conta AWS, agrupados por serviço, diretamente pelo CloudShell.
+
+O projeto apresenta o comando para copiar e executar, um exemplo do resultado e orientações para interpretar os valores retornados.
+
+Confira também o artigo [Como consultar os custos da AWS pelo CloudShell](https://www.vocecertificado.com.br/consultar-custos-aws-cloudshell/).
+
 ## Aprenda com a Você Certificado
 
 No site da Você Certificado, você encontra:
