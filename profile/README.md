@@ -1,3 +1,19 @@
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./imagens/banner-dark-vc.jpg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./imagens/banner-light-vc.jpg"
+  >
+  <img
+    src="./imagens/banner-light-vc.jpg"
+    alt="Você Certificado. Preparação para certificações AWS."
+    width="100%"
+  >
+</picture>
+
 # Você Certificado
 
 **Da nuvem à certificação.**
