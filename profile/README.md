@@ -57,6 +57,11 @@ O projeto apresenta o comando para copiar e executar, um exemplo do resultado e 
 
 Confira também o artigo [Como consultar os custos da AWS pelo CloudShell](https://www.vocecertificado.com.br/consultar-custos-aws-cloudshell/).
 
+### [AWS CloudShell: 10 comandos práticos](https://github.com/VoceCertificado/aws-cloudshell-exemplos)
+
+Aprenda 10 comandos práticos para usar no AWS CloudShell e conheça melhor o seu ambiente AWS.
+
+
 ## Aprenda com a Você Certificado
 
 No site da Você Certificado, você encontra:
